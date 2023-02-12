@@ -23,5 +23,5 @@
 - [Easy Recipes for Vegetables](https://thereciperepo.com/easy-recipes-for-vegetables/)
 
 ### Snacks
-
-
+- [Ideas of Healthy Snacks](https://thereciperepo.com/ideas-of-healthy-snacks/)
+- [Exotic Snacks](https://thereciperepo.com/exotic-snacks/)
