@@ -14,6 +14,8 @@
 ### Dinner
 - [Easy Potato Soup Recipes](https://thereciperepo.com/easy-potato-soup-recipes/)
 - [Easy Crockpot Chicken Recipes](https://thereciperepo.com/easy-crockpot-chicken-recipes/)
+- [Easy Recipes for Pork Chops](https://thereciperepo.com/easy-recipes-for-pork-chops/)
+- [Keto Crockpot Recipes](https://thereciperepo.com/keto-crockpot-recipes/)
 
 ### Dessert
 - [Easy Recipes for Peanut Butter Cookies](https://thereciperepo.com/easy-recipes-for-peanut-butter-cookies/)
@@ -21,6 +23,7 @@
 
 ### Sides
 - [Easy Recipes for Vegetables](https://thereciperepo.com/easy-recipes-for-vegetables/)
+- [Easy Recipes for Coleslaw](https://thereciperepo.com/easy-recipes-for-coleslaw/)
 
 ### Snacks
 - [Ideas of Healthy Snacks](https://thereciperepo.com/ideas-of-healthy-snacks/)
