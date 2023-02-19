@@ -1,13 +1,12 @@
 # [The Recipe Repo](https://www.thereciperepo.com)
 
-
-
 ## Recipe Collections
 
 ### Breakfast
 - [Copycat Starbucks Breakfast Sandwiches](https://thereciperepo.com/breakfast-sandwiches-starbucks/)
 - [Copycat McDonald's Breakfast sandwiches](https://thereciperepo.com/breakfast-sandwiches-mcdonalds/)
 - [Easy Recipes for Biscuits](https://thereciperepo.com/easy-recipes-for-biscuits/)
+- [Easy Recipes For Pancakes](https://thereciperepo.com/easy-recipes-for-pancakes/)
 
 ### Lunch
 - [Sandwich recipes with Eggs](https://thereciperepo.com/sandwich-recipes-with-eggs/)
@@ -25,7 +24,9 @@
 ### Dessert
 - [Easy Recipes for Peanut Butter Cookies](https://thereciperepo.com/easy-recipes-for-peanut-butter-cookies/)
 - [Easy Recipes for Cheesecake](https://thereciperepo.com/easy-recipes-cheesecake/)
-
+- [Easy Recipes for Pumpkin Pie](https://thereciperepo.com/easy-recipes-for-pumpkin-pie/)
+- [Easy Recipes for Banana Pudding](https://thereciperepo.com/easy-recipes-for-banana-pudding/)
+- [Easy Recipes for Cupcakes](https://thereciperepo.com/easy-recipes-for-cupcakes/)
 ### Sides
 - [Easy Recipes for Vegetables](https://thereciperepo.com/easy-recipes-for-vegetables/)
 - [Easy Recipes for Coleslaw](https://thereciperepo.com/easy-recipes-for-coleslaw/)
